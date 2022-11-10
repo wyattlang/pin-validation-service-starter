@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="pin-validation-service" />
+        <module name="pin-validation-service-starter" />
       </profile>
     </annotationProcessing>
   </component>
